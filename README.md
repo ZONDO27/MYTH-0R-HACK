@@ -17,5 +17,4 @@ This project uses **GitHub Actions** to automate builds and tests, ensuring the 
    ```bash
    git clone https://github.com/<your-username>/MYTH-0R-HACK.git
 
-## Author
-Developed by [Ntokozo zondo] for IMAD5112 coursework.
+
